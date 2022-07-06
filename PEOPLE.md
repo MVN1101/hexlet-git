@@ -1,1 +1,2 @@
 Heskell Curry
+Viktor Mikhaylov
